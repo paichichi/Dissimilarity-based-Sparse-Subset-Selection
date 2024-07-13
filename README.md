@@ -9,8 +9,3 @@ The paper aims to find the data representatives given the pairwise dissimilariti
 E. Elhamifar, G. Sapiro and S. S. Sastry, "Dissimilarity-Based Sparse Subset Selection," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 38, no. 11, pp. 2182-2197, 1 Nov. 2016, doi: 10.1109/TPAMI.2015.2511748.
 keywords: {Computational modeling;Yttrium;Data models;Approximation algorithms;Optimization;Clustering algorithms;Computers;Representatives;pairwise dissimilarities;simultaneous sparse recovery;encoding;convex programming;ADMM optimization;sampling;clustering;outliers;model identification;time-series data;video summarization;activity clustering;scene recognition},
 
-https://www.linkedin.com/posts/phanindra-parashar-959a80160_llm-streamlit-bhagavadgita-activity-7126991914909753344-FpVS/
-
-https://www.kaggle.com/code/sushilyadav1998/testnotebook  
-
-https://huggingface.co/Suru/Bhagvad-Gita-LLM
